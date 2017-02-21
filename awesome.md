@@ -6,10 +6,9 @@
 
 *This is italics*
 
-![Image](phase-0-gps-1/screenshot)
+![Image](phase-0-gps-1/screenshot.png)
 
-```git status
-	git add
-	git commit
-	git push
-```
+`git status 
+git add
+git commit
+git push`
