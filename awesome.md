@@ -4,11 +4,11 @@
 
 [Link](https://github.com/papermartine/phase-0-gps-1)
 
-* This is italics *
+*This is italics*
 
-![Image](/screenshot)
+![Image](phase-0-gps-1/screenshot)
 
-```	git status
+```git status
 	git add
 	git commit
 	git push
