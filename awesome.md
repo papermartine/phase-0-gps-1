@@ -6,7 +6,7 @@
 
 *This is italics*
 
-![Image](phase-0-gps-1/screenshot.png)
+![Image](https://raw.githubusercontent.com/papermartine/phase-0-gps-1/master/screenshot.png)
 
 `git status 
 git add
